@@ -13,3 +13,12 @@ Also if you want to customize to what you want. its nice to see how the squeak t
 So to test you need to load the icon halo type in the preferences under halo . hit load to make it happen it should.
 
 code in halocoloricons.txt file
+
+just find the method in the browser and copy and paste the code in the file above.  then do the test procedure above.
+
+Keep hacking the Well.  
+
+
+
+
+
