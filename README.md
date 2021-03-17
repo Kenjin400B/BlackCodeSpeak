@@ -1,6 +1,6 @@
 # BlackCodeSpeak
 
-
+For Smalltalks,  more specifically Squeak or  Etoys. 
 changes colors of icons of halos to more black and white part of Black Code Book Project
 
 {Problem?   Well different computing environments have different psychological  ambients so why choose one color scheme for all, users can create their own scheme.  Context of where your computing matters.  
